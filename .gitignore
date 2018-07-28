@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs/VSWorkspaceState.json
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/AdPEncryption/.vs/AdPEncryption/v15/Server/sqlite3
+/.vs/AdPEncryption/v15/.suo
+/AdPEncryption/.vs/AdPEncryption/v15
+/AdPEncryption/bin/Debug
+/AdPEncryption/obj/Debug
+/AdPEncryption/packages/NUnit.3.10.1/CHANGES.md
+/AdPEncryption/packages/NUnit.3.10.1/LICENSE.txt
+/AdPEncryption/packages/NUnit.3.10.1/NOTICES.txt
+/AdPEncryptionTests/bin/Debug
+/AdPEncryptionTests/obj/Debug
+/AdPEncryption/packages/NUnit.3.10.1
+/AdPEncryption/.vs/config
